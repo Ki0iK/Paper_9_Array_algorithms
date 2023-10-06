@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Example_1/Example_1.iml" filepath="$PROJECT_DIR$/Example_1/Example_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Key-value_mapping_example/Key-value_mapping_example.iml" filepath="$PROJECT_DIR$/Key-value_mapping_example/Key-value_mapping_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Paper_9_Array_algorithms.iml" filepath="$PROJECT_DIR$/Paper_9_Array_algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sequential_search_in_Java_example_1/Sequential_search_in_Java_example_1.iml" filepath="$PROJECT_DIR$/Sequential_search_in_Java_example_1/Sequential_search_in_Java_example_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sequential_search_in_Java_example_2/Sequential_search_in_Java_example_2.iml" filepath="$PROJECT_DIR$/Sequential_search_in_Java_example_2/Sequential_search_in_Java_example_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sequential_search_in_Java_example_3/Sequential_search_in_Java_example_3.iml" filepath="$PROJECT_DIR$/Sequential_search_in_Java_example_3/Sequential_search_in_Java_example_3.iml" />
+    </modules>
+  </component>
+</project>
