@@ -3,10 +3,16 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Example_1/Example_1.iml" filepath="$PROJECT_DIR$/Example_1/Example_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Example_Binary_search/Example_Binary_search.iml" filepath="$PROJECT_DIR$/Example_Binary_search/Example_Binary_search.iml" />
       <module fileurl="file://$PROJECT_DIR$/Example_Key-value_mapping/Example_Key-value_mapping.iml" filepath="$PROJECT_DIR$/Example_Key-value_mapping/Example_Key-value_mapping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Example_Key-value_mapping_other_way/Example_Key-value_mapping_other_way.iml" filepath="$PROJECT_DIR$/Example_Key-value_mapping_other_way/Example_Key-value_mapping_other_way.iml" />
       <module fileurl="file://$PROJECT_DIR$/Example_Sequential_search_in_Java_1/Example_Sequential_search_in_Java_1.iml" filepath="$PROJECT_DIR$/Example_Sequential_search_in_Java_1/Example_Sequential_search_in_Java_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Example_Sequential_search_in_Java_2/Example_Sequential_search_in_Java_2.iml" filepath="$PROJECT_DIR$/Example_Sequential_search_in_Java_2/Example_Sequential_search_in_Java_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Example_Sequential_search_in_Java_3/Example_Sequential_search_in_Java_3.iml" filepath="$PROJECT_DIR$/Example_Sequential_search_in_Java_3/Example_Sequential_search_in_Java_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework_1/Homework_1.iml" filepath="$PROJECT_DIR$/Homework_1/Homework_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework_2/Homework_2.iml" filepath="$PROJECT_DIR$/Homework_2/Homework_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework_3/Homework_3.iml" filepath="$PROJECT_DIR$/Homework_3/Homework_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework_4/Homework_4.iml" filepath="$PROJECT_DIR$/Homework_4/Homework_4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Paper_9_Array_algorithms.iml" filepath="$PROJECT_DIR$/Paper_9_Array_algorithms.iml" />
     </modules>
   </component>
