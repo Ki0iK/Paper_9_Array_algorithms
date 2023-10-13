@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args)
     {
-        System.out.println("Hello world!");int[] array = {65, -1, 8, 14, 22, -112};
+        int[] array = {65, -1, 8, 14, 22, -112};
         boolean found = false;
         int key = 14; // the number we are checking if it is present in the array
 
