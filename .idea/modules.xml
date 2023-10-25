@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Example_1/Example_1.iml" filepath="$PROJECT_DIR$/Example_1/Example_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Example_Binary_search/Example_Binary_search.iml" filepath="$PROJECT_DIR$/Example_Binary_search/Example_Binary_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Example_Bubble_sort/Example_Bubble_sort.iml" filepath="$PROJECT_DIR$/Example_Bubble_sort/Example_Bubble_sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Example_Key-value_mapping/Example_Key-value_mapping.iml" filepath="$PROJECT_DIR$/Example_Key-value_mapping/Example_Key-value_mapping.iml" />
       <module fileurl="file://$PROJECT_DIR$/Example_Key-value_mapping_other_way/Example_Key-value_mapping_other_way.iml" filepath="$PROJECT_DIR$/Example_Key-value_mapping_other_way/Example_Key-value_mapping_other_way.iml" />
       <module fileurl="file://$PROJECT_DIR$/Example_Selection_sort/Example_Selection_sort.iml" filepath="$PROJECT_DIR$/Example_Selection_sort/Example_Selection_sort.iml" />
