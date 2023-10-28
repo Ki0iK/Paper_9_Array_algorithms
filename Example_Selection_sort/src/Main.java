@@ -22,7 +22,7 @@ public class Main {
                 a [smallestInd] = tmp;
             }
         }
-        for (int v : a)
+        for (int v : a) //
             System.out.print(v + " ");
         System.out.println();
     }

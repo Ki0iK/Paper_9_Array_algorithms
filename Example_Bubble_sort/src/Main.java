@@ -25,7 +25,7 @@ public class Main {
     }
     static void swap (int[] array, int ind1, int ind2) // introducing swap so that it can be used in the code
     {
-        int tmp = array [ind1];
+        int tmp = array [ind1]; // tmp -> temporary (place for the int)
         array [ind1] = array [ind2];
         array [ind2] = tmp;
     }

@@ -9,7 +9,7 @@ public class Main {
         {
             if (students[i] .equals(key)) // if students at position i is equal to the key
             {
-                System.out.println(grades[i]); // grades at position i
+                System.out.println("Ben: " + grades[i]); // grades at position i
                 break; // break out of the loop
             }
         }
